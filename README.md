@@ -42,3 +42,26 @@ Aqui configuramos como vayamos a ocupar los botones que colocamos en el Layout
 
 
 
+# DESARROLLO DE LA GENERACION DE LA APK
+
+![image](https://github.com/user-attachments/assets/a7b9f074-2306-4b3c-a8a8-fc91109b8dd2)
+
+Nos colocamos en la parte superior donde dice Build, luego nos dirigimos a donde dice Build APK
+
+nos mandara una seccion donde va a descargar lo necesario para el build.
+
+![image](https://github.com/user-attachments/assets/be87ef7f-4f34-408a-9f8f-0f5432b08ddb)
+
+
+Nos vamos a android studio projects donde tenemos generado los proyectos nuevos que tengamos en APP y luego a DEBUG
+
+![image](https://github.com/user-attachments/assets/baf135ff-bec4-4ca0-b2de-0b1fe53aad61)
+
+le cambiamos el nombre para poder identificar de mejor manera
+
+
+![image](https://github.com/user-attachments/assets/0fc957c0-3ca4-43b5-a6d4-d454d395a7e2)
+
+
+
+
