@@ -17,3 +17,28 @@ En las libreroas tenemos que implementar las dependencias que vayamos a utilizar
 
 ![image](https://github.com/user-attachments/assets/3882eec7-a384-4527-8867-5c30b5e19332)
 
+# Build Gradle
+
+Tenemos que colocar las librerias que pusimos en el paso anterior para poder ocupar en nuestro MainActivity
+
+
+![image](https://github.com/user-attachments/assets/3cf11083-ab7c-4f76-a8d5-07b8563848bf)
+
+
+#  LAYOUT
+
+Aqui colocamos los botones como nosotros queramos que se vea correctamente anuestro modo
+
+![image](https://github.com/user-attachments/assets/1cb44a3a-ef3c-4722-9477-9e781eb967fd)
+
+
+
+# MAIN ACTIVITY
+
+Aqui configuramos como vayamos a ocupar los botones que colocamos en el Layout
+
+
+![image](https://github.com/user-attachments/assets/c75dce6f-09b9-4dc0-8677-7d2c001c03f9)
+
+
+
