@@ -19,7 +19,7 @@ En las librerias tenemos que implementar las dependencias que vayamos a utilizar
 
 # Build Gradle
 
-Tenemos que colocar las librerias que pusimos en el paso anterior para poder ocupar en nuestro MainActivity
+Tenemos que colocar las dependencias que pusimos en las librerias del paso anterior para poder ocupar en nuestro MainActivity
 
 
 ![image](https://github.com/user-attachments/assets/3cf11083-ab7c-4f76-a8d5-07b8563848bf)
