@@ -13,7 +13,7 @@ Tenemos que darles permiso para que puedan acceder a la localizacion como tenemo
 
 ![image](https://github.com/user-attachments/assets/f7d23935-bf03-4042-bfc3-d6017aa4e144)
 
-En las libreroas tenemos que implementar las dependencias que vayamos a utilizar:
+En las librerias tenemos que implementar las dependencias que vayamos a utilizar:
 
 ![image](https://github.com/user-attachments/assets/3882eec7-a384-4527-8867-5c30b5e19332)
 
